@@ -1,0 +1,22 @@
+#myImg {
+    width: auto;
+}
+body {
+    background-color: rgb(130, 130, 130);
+}
+
+button {
+    border: none;
+    padding: 14px 28px;
+    cursor: pointer;
+    border-radius: 5px;
+    color: black;
+}
+
+#buttonON {
+    background-color: rgb(31, 233, 31);
+}
+
+#buttonOFF {
+    background-color: red;
+}
